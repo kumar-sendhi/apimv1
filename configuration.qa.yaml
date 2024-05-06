@@ -1,0 +1,6 @@
+apimServiceName: seyonapimanagementqa
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
